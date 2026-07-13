@@ -3,8 +3,8 @@
 // Change this to the birthday date
 // Month: January = 0, July = 6
 // =========================================
-const targetDate = new Date(Date.now() + 2000).getTime();
-//const targetDate = new Date(2026, 6, 26, 0, 0, 0).getTime();
+//const targetDate = new Date(Date.now() + 2000).getTime();
+const targetDate = new Date(2026, 6, 26, 0, 0, 0).getTime();
 
 // =========================================
 // ELEMENTS
